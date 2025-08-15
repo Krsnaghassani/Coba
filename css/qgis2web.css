@@ -23,7 +23,7 @@
             padding-right: 10px;
         }
         .leaflet-popup-content {
-            width:auto;
+            width:300%;
             padding-right:10px;
         }
         .leaflet-tooltip {
@@ -131,6 +131,7 @@
  max-width: 1000%;
  max-height: auto;
 }
+
 
 
 
